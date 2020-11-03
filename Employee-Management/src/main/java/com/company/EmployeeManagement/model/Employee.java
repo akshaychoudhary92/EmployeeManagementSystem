@@ -2,6 +2,7 @@ package com.company.EmployeeManagement.model;
 
 import javax.persistence.*;
 
+//clean up the code when you get the chance
 @Entity
 @Table(name = "employees")
 public class Employee {
